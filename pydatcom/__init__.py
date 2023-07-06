@@ -1,3 +1,3 @@
-from parser import DatcomParser
+from myparser import DatcomParser
 from exporter import DatcomExporter
 from plotter import DatcomPlotter
